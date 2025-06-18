@@ -4,3 +4,4 @@
 - Repeated floors are allowed (...9,5,5,6...), with 0 travel time registered.
 - This project is built and run using Microsoft VS Code, using the 'C# Dev Kit' extension.
 - Microsoft assures me that VS code will run in a Linux environment -- I have not tested it there.
+- In the *...bin/Debug/net9.0/* folder is an executable (*Elevator.exe*) that runs on Windows
